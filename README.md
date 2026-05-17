@@ -24,10 +24,10 @@ Accompanying ortho-domain alignments can be downloaded from the NxE Dryad reposi
 
 Potts Hamiltonian parameters for evolved domains can be downloaded from the original SEEC Dryad repository [https://doi.org/10.5061/dryad.2ngf1vhj8](https://doi.org/10.5061/dryad.2ngf1vhj8).
 
-# Acknowledgements
+# References
 
 ### Sequence Evolution with Epistatic Contributions (SEEC) model
 de la Paz, Jose Alberto; Nartey, Charisse M.; Yuvaraj, Monisha; Morcos, Faruck (2020). Epistatic contributions promote the unification of incompatible models of neutral molecular evolution. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.1913071117
 
 ### Potts Hamiltonian parameters
-De la Paz, Jose Alberto; Nartey, Charisse M.; Yuvaraj, Monisha; Morcos, Faruck (2020). Data from: Epistatic contributions promote the unification of incompatible models of neutral molecular evolution [Dataset]. Dryad. https://doi.org/10.5061/dryad.2ngf1vhj8
+de la Paz, J. A., Nartey, C. M., Yuvaraj, M., & Morcos, F. Epistatic contributions promote the unification of incompatible models of neutral molecular evolution. Dryad. doi: 10.5061/dryad.2ngf1vhj8 (2026).
