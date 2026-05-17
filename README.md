@@ -7,7 +7,7 @@ Schmelkin L, Carnevale V, Haldane A, Townsend JP, Chung S, Levy RM, Kumar S. 202
 
 ---
 # Overview
-This repository contains the relevant information for modifying the original Sequence Evolution with Epistatic Contributions (SEEC) model described in [de la Paz et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1913071117) for NxE sequence evolution. Code for the SEEC model can be accessed here [https://github.com/AlbertodelaPaz/SEEC](https://github.com/AlbertodelaPaz/SEEC).
+This repository contains the relevant information for modifying the original Sequence Evolution with Epistatic Contributions (SEEC) model described in [de la Paz et al. 2020](https://www.pnas.org/doi/10.1073/pnas.1913071117) for NxE sequence evolution. Code for the SEEC model can be accessed here: [https://github.com/AlbertodelaPaz/SEEC](https://github.com/AlbertodelaPaz/SEEC)
 
 # Technologies
 - MATLAB_R2024a
