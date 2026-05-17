@@ -1,0 +1,23 @@
+function [Trajectory,sitecount,sustcount,symtimeline,Sustitutiontime,R]=Probevolution(S,e,h,M,min,max)
+ 
+@@ -46,7 +46,15 @@
+     for generation=2:M
+-        ms=randvar(cumsum(ones(1,N)/N),1);
+-        distP=siteprobdistribution(Trajectory(generation-1,:),h,e,ms,2);
+-        alpha=randvar(distP,1);
+-        Sprueba=Trajectory(generation-1,:);
+-        Sprueba(ms)=alpha;
++        while 1
++            ms=randvar(cumsum(ones(1,N)/N),1); 
++            distP=siteprobdistribution(Trajectory(generation-1,:),h,e,ms,2); 
++            alpha=randvar(distP,1);
++            Sprueba=Trajectory(generation-1,:);
++            Sprueba(ms)=alpha; 
++            
++            newH = Generalhamiltonian(Sprueba,e,h,2);
++            
++            if (newH >= min) && (newH <= max)
++               break 
++            end 
++        end
+         sitecount(generation,ms)=sitecount(generation,ms)+1;
