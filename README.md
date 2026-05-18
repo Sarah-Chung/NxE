@@ -20,7 +20,7 @@ This repository contains the relevant information for modifying the original Seq
 # Usage
 Changes outlined in `NxE.diff` should be applied to the `Probevolution.m` script in the original SEEC model, which can be downloaded from the SEEC repository ([https://github.com/AlbertodelaPaz/SEEC](https://github.com/AlbertodelaPaz/SEEC)).
 
-Accompanying ortho-domain alignments can be downloaded from the NxE Dryad repository [10.5061/dryad.g1jwstr70](10.5061/dryad.g1jwstr70).
+Accompanying ortho-domain alignments can be downloaded from the NxE Dryad repository [10.5061/dryad.g1jwstr70](10.5061/dryad.sj3tx96kk).
 
 Potts Hamiltonian parameters for evolved domains can be downloaded from the original SEEC Dryad repository [https://doi.org/10.5061/dryad.2ngf1vhj8](https://doi.org/10.5061/dryad.2ngf1vhj8).
 
